@@ -1,1 +1,2 @@
-To remove data, delete the app.
+To remove data delete the app.
+No data is shared or distributed.
